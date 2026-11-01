@@ -1,0 +1,22 @@
+{
+  "wheel_id": 629,
+  "structure": "umbrella",
+  "slug": "retainingwallpros-106",
+  "project": "retaining-wall-quotes-brisbane-myths-64b9705127aa758686d86c67ea",
+  "parent_t1_ref": "retainingwallpros-152",
+  "node_role": "feeder",
+  "money_target": "retainingwallpros.com.au",
+  "primary_kw": "retaining wall quotes brisbane myths",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-quotes-brisbane-myths-64b9705127aa758686d86c67ea/",
+  "tier": "T2",
+  "writeback_nonce": "c032e6b94fea09e1",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallpros-152/",
+      "anchor": "Retaining Wall Quotes Brisbane Planning Guide: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
